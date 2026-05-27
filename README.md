@@ -3,7 +3,7 @@
 Your form. Analyzed. Corrected. In milliseconds.
 An AI-powered, real-time gym trainer that watches every rep and provides instant, actionable feedback to perfect your form and count your reps, all without any extra hardware — just your webcam!
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_it_live-blue)](https://ai-realtime-gymcoach.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_it_live-blue)](https://realtime-ai-gymcoach.netlify.app/)
 
 ## 🚀 Features
 
